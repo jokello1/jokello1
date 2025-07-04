@@ -40,7 +40,7 @@ I'm a passionate Software Engineer at Fin Africa who loves building solutions th
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokello1&show_icons=true&theme=radical)
+<!--  ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokello1&show_icons=true&theme=radical) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jokello1&layout=compact&theme=radical)
 
